@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2022/09/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/09/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h3 id="TextureLoader"><a href="#TextureLoader" class="headerlink" title="TextureLoader"></a>TextureLoader</h3><p>.load ( url : String, onLoad : Function, onProgress : Function, onError : Function ) : Texture</p><p>url — 文件的URL或者路径，也可以为 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs">Data URI</a>.<br>onLoad — 加载完成时将调用。回调参数为将要加载的texture.<br>onProgress — 将在加载过程中进行调用。参数为XMLHttpRequest实例，实例包含total和loaded字节。<br>onError — 在加载错误时被调用。 </p><h3 id=""><a href="#" class="headerlink" title=""></a></h3><pre><code>JHFDK</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/09/08/hello-world/"/>
       <url>/2022/09/08/hello-world/</url>
